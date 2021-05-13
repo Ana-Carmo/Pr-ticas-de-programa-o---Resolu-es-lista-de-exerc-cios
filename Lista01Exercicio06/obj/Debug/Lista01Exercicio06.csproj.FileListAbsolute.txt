@@ -1,0 +1,7 @@
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\obj\Debug\Lista01Exercicio06.csprojAssemblyReference.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\obj\Debug\Lista01Exercicio06.csproj.CoreCompileInputs.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\bin\Debug\Lista01Exercicio06.exe.config
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\bin\Debug\Lista01Exercicio06.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\bin\Debug\Lista01Exercicio06.pdb
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\obj\Debug\Lista01Exercicio06.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio06\obj\Debug\Lista01Exercicio06.pdb

@@ -1,0 +1,7 @@
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\bin\Debug\Litsa01Exercicio11.exe.config
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\bin\Debug\Litsa01Exercicio11.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\bin\Debug\Litsa01Exercicio11.pdb
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\obj\Debug\Litsa01Exercicio11.csprojAssemblyReference.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\obj\Debug\Litsa01Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\obj\Debug\Litsa01Exercicio11.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Litsa01Exercicio11\obj\Debug\Litsa01Exercicio11.pdb
