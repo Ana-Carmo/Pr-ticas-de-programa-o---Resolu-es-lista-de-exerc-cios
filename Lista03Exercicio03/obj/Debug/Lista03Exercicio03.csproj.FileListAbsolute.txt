@@ -1,0 +1,6 @@
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\bin\Debug\Lista03Exercicio03.exe.config
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\bin\Debug\Lista03Exercicio03.exe
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\bin\Debug\Lista03Exercicio03.pdb
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\obj\Debug\Lista03Exercicio03.csprojAssemblyReference.cache
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\obj\Debug\Lista03Exercicio03.exe
+E:\Ana Carmo\Estudos\UNA\MÓDULO II\Práticas de Programação\LISTA DE EXERCÍCIOS\RESOLUÇÃO LISTA 3\Lista03Exercicio03\obj\Debug\Lista03Exercicio03.pdb
