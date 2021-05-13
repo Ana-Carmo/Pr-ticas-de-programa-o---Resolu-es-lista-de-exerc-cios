@@ -1,2 +1,2 @@
-# Pr-ticas-de-programa-o---Resolu-es-lista-de-exerc-cios
+# Praticas-de-programa-o---Resolucoes-lista-de-exercicios
 Resoluções das listas de execícios
