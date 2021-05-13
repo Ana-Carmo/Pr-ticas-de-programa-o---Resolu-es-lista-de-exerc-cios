@@ -1,0 +1,5 @@
+E:\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 4\Lista04Exercicio05\bin\Debug\Lista04Exercicio05.exe.config
+E:\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 4\Lista04Exercicio05\bin\Debug\Lista04Exercicio05.exe
+E:\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 4\Lista04Exercicio05\bin\Debug\Lista04Exercicio05.pdb
+E:\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 4\Lista04Exercicio05\obj\Debug\Lista04Exercicio05.exe
+E:\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 4\Lista04Exercicio05\obj\Debug\Lista04Exercicio05.pdb
