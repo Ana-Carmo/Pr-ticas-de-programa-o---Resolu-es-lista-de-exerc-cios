@@ -1,0 +1,14 @@
+C:\Users\anamt\source\repos\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.exe.config
+C:\Users\anamt\source\repos\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.exe
+C:\Users\anamt\source\repos\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.pdb
+C:\Users\anamt\source\repos\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.csprojAssemblyReference.cache
+C:\Users\anamt\source\repos\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\anamt\source\repos\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.exe
+C:\Users\anamt\source\repos\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.pdb
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.exe.config
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\bin\Debug\Lista01Exercicio04.pdb
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.csprojAssemblyReference.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.exe
+C:\Users\anamt\OneDrive\Estudos\UNA\MÓDULO II\Práticas de Programação\RESOLUÇÃO LISTA 1\Lista01Exercicio04\obj\Debug\Lista01Exercicio04.pdb
